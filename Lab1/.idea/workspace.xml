@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0447d1b8-8f5a-4ce0-96f3-51a80bcf7dcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="145" column="12" selection-start-line="145" selection-start-column="12" selection-end-line="145" selection-end-column="12" />
+            <state relative-caret-position="563">
+              <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="140" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -101,7 +106,11 @@
       <updated>1551444714302</updated>
       <workItem from="1551444715432" duration="3245000" />
       <workItem from="1551558745089" duration="6154000" />
-      <workItem from="1551812593530" duration="5595000" />
+      <workItem from="1551812593530" duration="6267000" />
+      <workItem from="1551984672821" duration="426000" />
+      <workItem from="1552039664740" duration="1994000" />
+      <workItem from="1552042080977" duration="1872000" />
+      <workItem from="1552046247443" duration="6517000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1 done">
       <created>1551821014562</created>
@@ -110,17 +119,30 @@
       <option name="project" value="LOCAL" />
       <updated>1551821014562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added video">
+      <created>1551823356516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551823356516</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added media">
+      <created>1551823399079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551823399079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14994000" />
+    <option name="totallyTimeSpent" value="26475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -144,14 +166,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab1 done" />
+    <MESSAGE value="added video" />
+    <MESSAGE value="added media" />
+    <option name="LAST_COMMIT_MESSAGE" value="added media" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readme.md" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="145" column="12" selection-start-line="145" selection-start-column="12" selection-end-line="145" selection-end-column="12" />
+        <state relative-caret-position="563">
+          <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="140" selection-end-column="53" />
         </state>
       </provider>
     </entry>

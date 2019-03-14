@@ -1,0 +1,29 @@
+.vertical-menu {
+    float: left;
+    background-color: #f2cdf4;
+}
+
+.option {
+    width: 200px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 25px;
+    position: relative;
+    border-bottom: 1.3px solid #e8c1de;
+}
+
+.option:hover > .vertical-menu {
+    opacity: 1;
+    visibility: visible;
+}
+
+.option:hover {
+    background-color: #d8c5d8;
+}
+.vertical-menu .vertical-menu {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    left: 100%;
+    top: -2%
+}
