@@ -1,0 +1,54 @@
+#slider {
+    height: 300px;
+    /*max-width: 100%;*/
+    margin: 15% auto;
+    position: relative;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+    z-index: 2;
+}
+#mover {
+    width: 3500px;
+    position: relative;
+    height: 300px;
+
+}
+
+#modal {
+    margin-left: 25%;
+    width: 50%;
+    background-color: rgba(0,0,0,0.5);
+    height: 500px;
+    position: relative;
+    display: none;
+    z-index: 1;
+}
+
+#modal > img {
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    padding: 5% 20%;
+    width: 500px;
+    height: 400px
+
+}
+
+/*#mover > img {*/
+/*    -webkit-transition: all .5s ease;*/
+/*    transition: all .5s ease;*/
+/*}*/
+/*.first {*/
+/*    animation: bannermove 30s linear infinite;*/
+/*}*/
+
+/*@keyframes bannermove {*/
+
+/*    0% {*/
+/*        margin-left: 0;*/
+/*    }*/
+/*    100% {*/
+/*        margin-left: -2125px;*/
+/*    }*/
+
+/*}*/
